@@ -1,0 +1,33 @@
+var shoppingList = ["eggs", "milk", "ham", "bread"]
+
+print(shoppingList.count)
+
+Print(shoppingList.isEmpty)
+
+shoppingList.append("cooking Oil")
+
+print(shoppingList)
+
+shoppingList.append("chicken", at: 1)
+
+print(shoppingList)
+
+print(shoppingList[2])
+
+shoppingList[2] ="Soy milk"
+
+print(shoppingList)
+
+shoppingList.remove(at: 1)
+
+print(shoppingList)
+
+shoppingList.remove()
+
+print(shoppingList)
+
+for shoppingListItem in shoppingList{
+
+    print(shopingList)
+
+}
